@@ -1,3 +1,6 @@
+# NO LONGER MAINTAINED
+Don't look here. Look somewhere else.
+
 # Prive
 Prive is a web server for the JVM - it is lightweight and fast, and is an ideal solution compared to
 embedding other heavyweight web servers such as Apache Tomcat, etc. This is a project for the 2022 Summer JavaJam.
